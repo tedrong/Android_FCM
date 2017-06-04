@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/rong/.android/build-cache/0fc695b2fa6034a605ecc84660da8d2d71e2013e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="/home/rong/Desktop/Wise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f3a546d6c941bef987807526e120064cceedd77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.7.0/6edbebdd8868708db718d15c09c4b28037fd487e/okhttp-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6edbebdd8868708db718d15c09c4b28037fd487e">
+        <dex dex="/home/rong/Desktop/Wise/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.7.0_a050ebaa148253c72c91636fe0a326df5c6adb37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rong/.android/build-cache/08f480b0370c43d5031db59eaf100807ba47058c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="/home/rong/Desktop/Wise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a524a956913b35b9f62666a7319e7bc2ebb08226/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rong/.android/build-cache/cf294647c03036a9e400130c4429379c3d04e894/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/rong/Desktop/Wise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_392f82d4a6bfce34c2348729be2256eeee755b78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rong/.android/build-cache/69d4034a8ced06a56f17e8d2db184a4eb36a262a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="/home/rong/Desktop/Wise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3e82f641eaf7c5b0f97e662022b33ec302079727/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rong/Documents/AndroidSDK/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/rong/Desktop/Wise/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_fa5c6755f363e1c38e4314faca7c12fb23fabcfb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rong/.android/build-cache/82ea27bc60ab3d88e55025d616df5b652f782299/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/rong/Desktop/Wise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f01f61cdbd948c410fd4b520e59de24f9f4651e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rong/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.12.0/3742beff8024d0a0073d284b7c5e4cbf73d99b25/okio-1.12.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3742beff8024d0a0073d284b7c5e4cbf73d99b25">
+        <dex dex="/home/rong/Desktop/Wise/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.12.0_81e151fa4eee00c9c0e747d87b72ba466466e859/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rong/.android/build-cache/256ff672965de73915a0116f48481d6ecf26c1ef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/rong/Desktop/Wise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a52386a57e270041fed3c1c2950bc0735819a5ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rong/.android/build-cache/b566b34b21f98d40f376ddb5ff6a5c84316bf68c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/home/rong/Desktop/Wise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_daa0af221e0d0755ae473429f17d9a10532b1569/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rong/.android/build-cache/ae0a8a7620faf5e80a440807bce6dabdeff17c09/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="/home/rong/Desktop/Wise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_df1f3a5f5039bdac02aec288dd5a0041994523e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rong/.android/build-cache/cd13efd60dd8a9f0274604c691a4d83f503357e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/rong/Desktop/Wise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_379e7569758189d39fb0f3efaceebf3c4c416850/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rong/Documents/AndroidSDK/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/rong/Desktop/Wise/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_841e3beea2daf9b1ca8ee2139cab685312d7e683/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rong/.android/build-cache/f03c2e529e7fc0338fcf9ee1fe38f44b18d29154/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/rong/Desktop/Wise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_37266144c2e15d4eb3b7f822f93d9cfc385f783c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rong/Desktop/Wise/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="77f05bfa9194851ce5e72b0618fc28d7c5b0416c">
+        <dex dex="/home/rong/Desktop/Wise/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6ca070f153670dde8aecb88f3b6a8807c2e53ab5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rong/.android/build-cache/f99541b4dca0ce378d9d1e2b0dc9a6c59e5e9530/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
+        <dex dex="/home/rong/Desktop/Wise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dddc4a72d60b87dfcad1c903c174cdd9caaeff83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rong/.android/build-cache/0975441e68cb48794fd184af1adfc8df508c9858/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/rong/Desktop/Wise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b4501cf06535804c6b73decbe1e330cf912c137/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rong/.android/build-cache/84ca29df005400964854792e7ba0c00277b987cc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/rong/Desktop/Wise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c5ffb3e96a506baa9182b7f667d891d7209fcb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rong/Desktop/Wise/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/rong/Desktop/Wise/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_02978050443fc62e6432ce301622412abd61c504/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rong/.android/build-cache/e969c44204e781ea589cbdf9c19fb91fc3006eb2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/rong/Desktop/Wise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52b7116ca7e033320c6c0098cfe6353150c32b1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rong/.android/build-cache/c8cc8f9d682823de3f15c5972870a9978aadf7ae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/rong/Desktop/Wise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fbd31dac1a4fa0eddd88fba85c817efa4665f851/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rong/.android/build-cache/374904eb72b817ede89a3454095d16481915fe3c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/home/rong/Desktop/Wise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_437ff58045c50503c49e72e4197f387681db56a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rong/.android/build-cache/849e2d432db44583da5336481b051dbc66ea70c9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a424dda1dfed15a9ca112aa128107b948e30e82">
+        <dex dex="/home/rong/Desktop/Wise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fc4ceee230549ef890f3df7f69665155b48bf0c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rong/.android/build-cache/b8b63d626b9d368216231d70b4138f819fe73814/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/rong/Desktop/Wise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d4ecb8cd10e94733ee3c4055d4d5e2208e440ec0/classes.dex" />
+    </item>
+
+</items>

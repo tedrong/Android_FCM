@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "712027850673",
+    "firebase_url": "https://wise-89521.firebaseio.com",
+    "project_id": "wise-89521",
+    "storage_bucket": "wise-89521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712027850673:android:794658dbcc1ad9c5",
+        "android_client_info": {
+          "package_name": "rong.ndhu.com.wise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712027850673-5noja6179770an2e0j8jqmskl0tqfqgt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rong.ndhu.com.wise",
+            "certificate_hash": "e1370faec4683a7bb61c0651361573acd7fd756a"
+          }
+        },
+        {
+          "client_id": "712027850673-at8tlh0ccgesug91302nh3s661j077j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeCsiioiuRZzQDT7flL9kYQFLBRqJzpYA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712027850673-at8tlh0ccgesug91302nh3s661j077j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
